@@ -28,4 +28,4 @@ H1 by HHHH — https://geekhack.org/index.php?topic=104578.0
 00:39:42 — H1 by HHHH
 00:45:23 — Загадочный низкий профиль
 
-Все темы выпуска: 
+Все темы выпуска: https://www.notion.so/endgamepodcast/endgame-3ba7e4efd6ce44c68367cee4ecd81a64
