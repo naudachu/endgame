@@ -1,32 +1,56 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
-body{
-  font-family:'Open Sans', sans-serif;
-  background:#151837;
-  width:90%;
-  margin:0 auto;
-  padding:2em 0 6em;
+body {
+  font-family: "Open Sans", sans-serif;
+  background: #151837;
+  width: 90%;
+  margin: 0 auto;
+  padding: 2em 0 6em;
 }
-h1:before{
+h1:before {
   content: "// ";
 }
-h1{
-  font-size:2em;
-  color:#fefefe;
-  text-transform:lowercase;
+h1 {
+  font-size: 28px;
+  color: #fefefe;
+  text-transform: lowercase;
 }
-.wrapper{
-  margin:1em 0;
+.wrapper {
+  margin: 10px 0;
 }
-a,a:visited,a:hover,a:active{
-  -webkit-backface-visibility:hidden;
-          backface-visibility:hidden;
-  position:relative;
-  transition:0.5s color ease;
-  text-decoration:none;
-  color:#81b3d2;
-  font-size:1.5em;
+
+a,
+a:visited,
+a:hover,
+a:active {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  position: relative;
+  transition: 0.5s color ease;
+  text-decoration: none;
+  color: #81b3d2;
+  font-size: 18px;
 }
-a:hover{
-  color:#d73444;
+
+@media all and (max-width: 375px) {
+  a,
+  a:visited,
+  a:hover,
+  a:active {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    position: relative;
+    transition: 0.5s color ease;
+    text-decoration: none;
+    color: #81b3d2;
+    font-size: 20px;
+  }
+}
+
+a:hover {
+  color: #d73444;
+}
+
+ul {
+  list-style-type: none;
 }
