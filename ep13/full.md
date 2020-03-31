@@ -12,7 +12,7 @@
 00:17:47 – RAMA Koyu – https://rama.works/koyu
 #00:18:18 – Пружины от 1UP – https://www.1upkeyboards.com/shop/parts-and-tools/parts/1upkeyboards-xp-gold-switch-springs/
 #00:21:17 – Короткое обсуждение обзора H1 – https://www.theremingoat.com/blog/h1-switch-review
-#00:21:44 –  – https://dixiemech.com/news/final-bauer-update
+#00:21:44 – Bauer 8008 edition – https://dixiemech.com/news/final-bauer-update
 #00:25:22 – Плейт от Луиса за 60$ – https://ilumkb.com/products/in-stock-tyl-4mm-plate
 #00:29:31 – Clueboard LP – https://clueboard.co/clueboard-66-low-profile
 00:31:37 – QWIIC Компоненты – https://www.sparkfun.com/qwiic
