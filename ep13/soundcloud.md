@@ -4,8 +4,9 @@
 
 
 Заходите в наш чат: t.me/endgame_podcast_chat
+Страничка с темами, которые удобно открывать пока слушаешь подкаст: https://naudachu.github.io/endgame/ep13/notion.html 
 
-Темы выпуска со ссылочками:
+Темы выпуска со ссылочками
 Through Hole Only клавиатура Romeo – https://www.reddit.com/r/MechanicalKeyboards/comments/fluj6v/romeo_new_40_kit_now_available_at_cftkbcom/
 Jules от Zambumon – https://r.works/jules
 KBD8X MKII – https://kbdfans.com/blogs/interest-checks/kbdfans-x-ai03-kbd8x-mkii-mechanical-keyboard-kit
