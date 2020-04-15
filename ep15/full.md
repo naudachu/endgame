@@ -36,4 +36,4 @@ Overcast -  http://bit.ly/37CPztI
 Pocket Casts - http://bit.ly/2O8noLF
 
 Ссылочки на новости удобно:
-https://naudachu.github.io/endgame/ep14/notion.html
+https://naudachu.github.io/endgame/ep15/notion.html
