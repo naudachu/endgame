@@ -4,7 +4,7 @@
 Пропускаем групбай хекса, учавствуем в дроКе альпак, пытаемся выяснить как выглядит процессор и еще много-много глупостей сегодня принесли.
 
 Наш чат в Telegram: t.me/endgame_podcast_chat
-Ссылки в удобном формате: https://naudachu.github.io/endgame/ep14/notion.html
+Ссылки в удобном формате: https://naudachu.github.io/endgame/ep15/notion.html
 
 THICC Films – https://paper.dropbox.com/doc/Thicc-films-FZEtIWwgopvJauX0jlG3N
 Alpacas – https://www.primekb.com/collections/parts/products/alpaca-linears?variant=31565132857440
